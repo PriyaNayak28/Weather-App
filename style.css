@@ -10,7 +10,8 @@ body {
 }
 
 .main-container {
-    width: 90%;
+    height: 90%;
+    width: 100%;
     max-width: 470px;
     background: linear-gradient(135deg, rgb(56, 12, 56), rgb(123, 18, 123));
     color: #fff;
